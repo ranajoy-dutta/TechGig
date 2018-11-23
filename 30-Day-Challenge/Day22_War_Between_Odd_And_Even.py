@@ -9,5 +9,6 @@ def main():
         else:
             odd += arr[i]
     print(abs(even-odd))
+    
 main()
 
