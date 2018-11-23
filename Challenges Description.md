@@ -1,18 +1,12 @@
-## Detailed Description of Challenges__
-**Day 2 - Exploring Data Types**
-
-__Exploring Data Types
+## Detailed Description of Challenges
+**Day 2 - Exploring Data Types**Exploring Data Types
 For this challenge, you need to read a line from stdin and check whether it is of type integer, float or string. 
 If input is- Integer print 'This input is of type Integer.' to the stdout Float print 'This input is of type Float.' to the stdout String print 'This input is of type string.' to the stdout else print 'This is something else.' to the stdout. 
 
-
-**Day 3 - Play with Operators**
-For this challenge, you will be given the values of principal, interest and year. You need to calculate the simple interest, round it to the nearest integer and print it.
-**Day 4 - Decide yourself with conditional statement**
-For this challenge, you need to read a integer value(default name - age) from stdin, store it in a variable and then compare that value with the conditions given below - 
-    - if age is less than 10, then print 'I am happy as having no responsibilities.' to the stdout. 
-    - if age is equal to or greater than 10 but less than 18, then print 'I am still happy but starts feeling pressure of life.' to the stdout. 
-    - if age is equal to or greater than 18, then print 'I am very much happy as i handled the pressure very well.' to the stdout.  
+**Day 3 - Play with Operators**For this challenge, you will be given the values of principal, interest and year. You need to calculate the simple interest, round it to the nearest integer and print it. **Day 4 - Decide yourself with conditional statement**For this challenge, you need to read a integer value(default name - age) from stdin, store it in a variable and then compare that value with the conditions given below - [] if age is less than 10, then print 'I am happy as having no responsibilities.' to the stdout.
+ 
+    [] if age is equal to or greater than 10 but less than 18, then print 'I am still happy but starts feeling pressure of life.' to the stdout. 
+    [] if age is equal to or greater than 18, then print 'I am very much happy as i handled the pressure very well.' to the stdout.  
 **Day 5 - Loop your World**
 For this challenge, you need to take an integer value as input from stdin, calculate its factorial and print the result to the stdout. 1 
 **Day 6 - How Much Big Is Your Number**
