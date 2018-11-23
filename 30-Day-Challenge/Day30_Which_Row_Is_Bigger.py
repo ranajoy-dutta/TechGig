@@ -9,6 +9,5 @@ def main():
             rowid = i+1
     print("Row",rowid)
     
-    
 main()
 
