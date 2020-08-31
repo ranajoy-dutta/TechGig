@@ -4,7 +4,5 @@ def main():
     while int(num)>0:
         count += 1
         num/=10
-    print(count)
+    print(count, end="")
 main()
-
-
