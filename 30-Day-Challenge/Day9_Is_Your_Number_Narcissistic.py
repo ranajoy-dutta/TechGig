@@ -12,8 +12,8 @@ def main():
         sum += arr[i]**n
         
     if sum == cpy:
-        print('True')
+        print('True', end="")
     else :
-        print('False')
+        print('False', end="")
 
 main()
