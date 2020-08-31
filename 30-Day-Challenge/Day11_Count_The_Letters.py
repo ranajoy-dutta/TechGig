@@ -8,6 +8,5 @@ def main():
         elif string[i].islower() :
             lower += 1
     print(upper)
-    print(lower)
+    print(lower, end="")
 main()
-
