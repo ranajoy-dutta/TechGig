@@ -13,9 +13,8 @@ def main():
                 flag=0
                 j+=1
             
-        if flag == 0 and i!=1 and i!=2:
+        if flag == 0 and i!=1:
             count += 1
-    print(count)
+    print(count, end="")
             
 main()
-
